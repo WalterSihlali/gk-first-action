@@ -1,1 +1,1 @@
-# gk-first-action
+# gh-first-action
